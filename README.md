@@ -1,2 +1,2 @@
-# e-library-C75-SA
-student activity link
+# biblioteca-digital-C75-SA
+Enlace de la actividad del alumno 
